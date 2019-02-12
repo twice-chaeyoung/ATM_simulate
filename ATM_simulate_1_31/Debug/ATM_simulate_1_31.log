@@ -1,0 +1,3 @@
+﻿  ATM.cpp
+c:\users\lollipop\desktop\vs2017 c++程序\atm_simulate_1_31\atm_simulate_1_31\atm.cpp(21): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ATM_simulate_1_31.vcxproj -> C:\Users\lollipop\Desktop\vs2017 c++程序\ATM_simulate_1_31\Debug\ATM_simulate_1_31.exe
